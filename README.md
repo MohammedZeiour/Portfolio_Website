@@ -3,7 +3,7 @@
 Im Folgenden ist der Code für die Website meines Portfolios. 
 Der Code wurde dabei in Visual Studio Code auf mehrere Dateien verteilt.
 
-1. index.html
+1. index.html (Struktur mit HTML)
 2. general_settings.css
 3. header.CSS
 4. ÜberMich.css
