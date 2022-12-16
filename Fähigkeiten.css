@@ -1,0 +1,34 @@
+#Fähigkeiten_section {
+    padding: 100px 0;
+    background-color: var(--primary-color);
+    gap: 100px;
+}
+
+#Fähigkeiten_section h2{
+    font-size: 50px;
+        text-align: center;
+        margin-top: -3%;
+}
+.flex_container{
+    margin-top: 3%;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 200px;
+    height: 100px;
+    background-color: #163645;
+    border-radius: 70px;
+    padding: 30px 25px;
+    position: relative;
+    overflow: hidden;
+    text-align: center; 
+}
+
+.Fähigkeit{
+    font-size: 30px;
+    color: rgb(179, 190, 243);
+}
