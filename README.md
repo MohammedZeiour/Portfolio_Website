@@ -1,4 +1,4 @@
-# Website_Projekt
+# Website
 
 Im Folgenden ist der Code für die Website meines Portfolios. 
 Der Code wurde dabei in Visual Studio Code auf mehrere Dateien verteilt.
