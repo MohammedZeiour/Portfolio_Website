@@ -1,7 +1,7 @@
 # Website
 
 Im Folgenden siehst du den Code für die Website meines Portfolios. 
-Der Code wurde dabei in Visual Studio Code auf mehrere Dateien verteilt.
+Der Code wurde dabei in Visual Studio Code auf mehrere Dateien verteilt:
 
 1. index.html            (Struktur mit HTML)
 2. general_settings.css  (allgemeines Aussehen der Website wie Farben etc.)
