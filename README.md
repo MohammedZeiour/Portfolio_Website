@@ -9,3 +9,4 @@ Der Code wurde dabei in Visual Studio Code auf mehrere Dateien verteilt.
 4. ÜberMich.css          (Allgemeine Informationen über mich)
 5. Fähigkeiten.css       (Darstellung meiner Fähigkeiten in Bezug auf Technologien)
 6. Projekt.css           (Darstellung meiner Projekte)
+7. footer.css            (Kontaktdaten)
