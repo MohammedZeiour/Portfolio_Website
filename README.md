@@ -1,6 +1,6 @@
 # Website
 
-Im Folgenden ist der Code für die Website meines Portfolios. 
+Im Folgenden siehst du den Code für die Website meines Portfolios. 
 Der Code wurde dabei in Visual Studio Code auf mehrere Dateien verteilt.
 
 1. index.html            (Struktur mit HTML)
